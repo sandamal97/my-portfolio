@@ -232,7 +232,7 @@ const Dashboard = () => {
             }}
           >
             <Routes>
-              <Route path="home" element={<Home />} />
+              <Route path="/" element={<Home />} />
               <Route path="education" element={<Education />} />
               <Route path="blog" element={<div>Blog Content</div>} />
               <Route path="projects" element={<div>Projects Content</div>} />

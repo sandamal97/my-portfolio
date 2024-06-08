@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/sandamal97/my-portfolio.git/static/css/main.10ea367f.css",
+    "main.js": "/sandamal97/my-portfolio.git/static/js/main.3c4bed12.js",
+    "static/js/453.41811d64.chunk.js": "/sandamal97/my-portfolio.git/static/js/453.41811d64.chunk.js",
+    "static/media/abc.jpg": "/sandamal97/my-portfolio.git/static/media/abc.988e65c63904af863088.jpg",
+    "static/media/codesprint.jpg": "/sandamal97/my-portfolio.git/static/media/codesprint.24e3e6a7d76e88500eb8.jpg",
+    "static/media/ite.jpeg": "/sandamal97/my-portfolio.git/static/media/ite.51faddc544e54aae44fd.jpeg",
+    "static/media/ccna.PNG": "/sandamal97/my-portfolio.git/static/media/ccna.32cf0491a0116aba1dc9.PNG",
+    "index.html": "/sandamal97/my-portfolio.git/index.html",
+    "main.10ea367f.css.map": "/sandamal97/my-portfolio.git/static/css/main.10ea367f.css.map",
+    "main.3c4bed12.js.map": "/sandamal97/my-portfolio.git/static/js/main.3c4bed12.js.map",
+    "453.41811d64.chunk.js.map": "/sandamal97/my-portfolio.git/static/js/453.41811d64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10ea367f.css",
+    "static/js/main.3c4bed12.js"
+  ]
+}

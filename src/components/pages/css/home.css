@@ -1,0 +1,30 @@
+.custom-card {
+    border-radius: 0;
+  }
+  
+  .custom-card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 0;
+    padding: 0;
+  }
+  
+  .custom-img {
+    width: 100%;
+    height: auto;
+    max-height: 150px; /* Adjust this value to reduce the height */
+    object-fit: cover;
+    margin-bottom: 0; /* Remove margin between image and card */
+    border-radius: 0;
+    transition: transform 0.3s ease; /* Add smooth transition for the zoom effect */
+  }
+  
+  .custom-img:hover {
+    transform: scale(1.1); /* Zoom in by 10% on hover */
+  }
+  
+  .no-padding {
+    padding: 0;
+  }
+  
